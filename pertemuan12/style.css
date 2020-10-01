@@ -1,0 +1,46 @@
+/* p {
+    color: maroon;
+}
+p.un {
+    color: midnightblue;
+        /*border-width: 5px;
+   border-style: solid;
+   border-color: hotpink; */
+   /* border: 5px solid hotpink;
+
+}
+.deux.sue{
+    color: yellowgreen;
+} */
+div .un {
+    color: darkred;
+}
+#top-dix{
+    background-color: lightskyblue;
+}
+#buttom-dix{
+    background-color: limegreen;
+}
+a[href] {
+    font-size: 30px;
+    text-decoration: none;
+    text-transform: capitalize;
+    background-color: orange;
+}
+a[href*="google"]{
+    background-color: cyan;
+}
+a[href$=".ac.id/"]{
+    background-color: royalblue;
+}
+h2:hover {
+    color: seagreen;
+    background-color: seashell;
+}
+p::selection {
+    background-color: slateblue;
+    color: tomato;
+}
+a::before{
+    content: "Link -";
+}
