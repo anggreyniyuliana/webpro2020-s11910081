@@ -1,0 +1,48 @@
+img{
+    display: block;
+    background-color: rgba(155, 75, 0, 0.575);
+    padding: 20px;
+    border: 10px solid brown;
+    margin: 20px 0px 0px 20px;
+}
+
+img.ace{
+    display: block;
+    background-color: orange;
+    padding: 20px;
+    border: 10px solid chocolate;
+    margin: 0px 0px 0px 240px;
+}
+
+img.acu{
+    display: block;
+    background-color: lightsalmon;
+    padding: 20px;
+    border: 10px solid  saddlebrown;
+    margin: 0px 0px 0px 460px;
+}
+
+td.ace {
+    background-color: rebeccapurple;
+}
+td.cos {
+    background-color:palevioletred;
+}
+td.acu {
+    background-color: royalblue;
+}
+td.aci {
+    background-color: palegreen;
+}
+td.cas {
+    background-color: gold;
+}
+td.cis {
+    background-color: forestgreen;
+}
+td.cus {
+    background-color: deeppink;
+}
+td.alld {
+    background-color: palegreen;
+}
